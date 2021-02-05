@@ -1,5 +1,6 @@
 
 //https://fathomless-journey-48245.herokuapp.com/
+//{API key} : My actual API key, {list ID} : A unique list id (Had to change)
 const express = require("express");
 const bodyParser = require("body-parser");
 const https = require("https");
